@@ -3,11 +3,11 @@
 <h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://vanaj-vanguardia.web.app/">
-  <img  src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg"
        alt="snake" /></a>
-</div> -->
+</div> 
 
 <details>
   <summary>🙋‍♂️ Reach Me</summary>
