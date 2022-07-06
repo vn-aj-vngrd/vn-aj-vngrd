@@ -10,10 +10,10 @@
 </div> -->
 
 <details>
-  <summary>📞 Contact me</summary>
+  <summary>📱 Socials</summary>
 <div>
   <samp>
-    <h2 align="center"🙋 Social Media:</h2>
+    <h2 align="center"📱 Socials:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
@@ -40,7 +40,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/vn-aj-vngrd/">
