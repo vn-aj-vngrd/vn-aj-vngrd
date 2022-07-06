@@ -10,30 +10,6 @@
 
 <br />
 
-<details>
-  <summary>⭐ Tech Stack</summary>
-<div>
-  <samp>
-    <h2 align="center">⭐ Tech Stack</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="linkedin-vanajvanguardia" height="30"/></a>
-      <a href="https://www.facebook.com/vn.aj.vngrd" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="facebook-vanajvanguardia" height="30"/></a>
-      <a href="https://mailto:vanajvanguardia@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="gmail-vanajvanguardia" height="30"/></a>
-      <a href="https://www.instagram.com/vn.aj.vngrd/?hl=en" target="blank"><img align="center"
-         src=""
-         alt="instagram-vanajvanguardia" height="30"/></a>
-    </p>
-  </samp>
-</div>
-</details>
-
 <details> 
   <summary>🏆 GitHub Profile Stats</summary>
   <div>
