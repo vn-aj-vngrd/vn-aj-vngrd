@@ -1,6 +1,7 @@
 <div align="center">
   <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" />
-  <h1 align="center"> Hello, I'm Van</h1>
+  <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hello%2C+I'm+Van!;I'm+from+Cebu,+Ph.;An+Aspiring+developer.)](https://git.io/typing-svg)
+  </h1>
   <h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
 </div>
 
