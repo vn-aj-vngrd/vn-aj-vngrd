@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Van</h1>
-<h4 align="center">An IT student and developer from Cebu, Ph 🇵🇭</h4>
+<h4 align="center">An IT student and developer from Cebu, Ph 🇭</h4>
 </div>
 
 <div align="center">
