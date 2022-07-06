@@ -2,6 +2,7 @@
   <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" />
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=FFFFFF&center=true&vCenter=true&lines=Hello%2C+I'm+AJ+%F0%9F%A4%97;An+aspiring+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;and+IT+student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Feel+free+to+browse+my+repo+%F0%9F%A5%B0)](https://git.io/typing-svg)
+  
   <a href="https://vanaj-vanguardia.web.app/">
     <img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg" alt="snake-contributions" />
   </a>
@@ -10,10 +11,10 @@
 <br />
 
 <details>
-  <summary>🙋‍♂️ Reach Me</summary>
+  <summary>⭐ Tech Stack</summary>
 <div>
   <samp>
-    <h2 align="center">🙋‍♂️ Reach Me:</h2>
+    <h2 align="center">⭐ Tech Stack</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
@@ -26,7 +27,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="gmail-vanajvanguardia" height="30"/></a>
       <a href="https://www.instagram.com/vn.aj.vngrd/?hl=en" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         src=""
          alt="instagram-vanajvanguardia" height="30"/></a>
     </p>
   </samp>
@@ -57,4 +58,28 @@
   <br/>
   <h2 align="center">🧑‍💻 Activity Graph</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
+
+<details>
+  <summary>🙋‍♂️ Reach Me</summary>
+<div>
+  <samp>
+    <h2 align="center">🙋‍♂️ Reach Me</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="linkedin-vanajvanguardia" height="30"/></a>
+      <a href="https://www.facebook.com/vn.aj.vngrd" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="facebook-vanajvanguardia" height="30"/></a>
+      <a href="https://mailto:vanajvanguardia@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="gmail-vanajvanguardia" height="30"/></a>
+      <a href="https://www.instagram.com/vn.aj.vngrd/?hl=en" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="instagram-vanajvanguardia" height="30"/></a>
+    </p>
+  </samp>
+</div>
 </details>
