@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=vn-aj-vngrd&show_icons=true&theme=ADD_THEME_HERE" width="400">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
