@@ -58,6 +58,7 @@
   <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
   <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+     <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio.svg" alt="Visual Studio" width="21px" height="21px"></a>
 </p>  
 
 </div>
