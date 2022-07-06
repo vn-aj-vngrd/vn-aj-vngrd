@@ -1,8 +1,8 @@
 <div align="center">
   <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" />
-  <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&background=FFFFFF00&center=true&vCenter=true&lines=Hello%2C+I'm+Van;An+IT+student+and+aspiring+developer;From+Cebu%2C+Philippines;Feel+free+to+browse+my+repo+%F0%9F%A5%B0)](https://git.io/typing-svg)
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&background=FFFFFF00&center=true&vCenter=true&lines=Hello%2C+I'm+Van;An+IT+student+and+aspiring+developer;From+Cebu%2C+Philippines;Feel+free+to+browse+my+repo+%F0%9F%A5%B0)](https://git.io/typing-svg)
-  </h1>
+  <div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&background=FFFFFF00&center=true&vCenter=true&lines=Hello%2C+I'm+Van;An+IT+student+and+aspiring+developer;From+Cebu%2C+Philippines;Feel+free+to+browse+my+repo+%F0%9F%A5%B0)](https://git.io/typing-svg)
+  </div>
   <h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
 </div>
 
