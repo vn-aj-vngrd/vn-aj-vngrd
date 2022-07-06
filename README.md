@@ -1,13 +1,14 @@
 <div align="center">
-<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hello, I'm Van</h1>
-<h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
+  <img align="center" width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" />
+  <h1 align="center"> Hello, I'm Van</h1>
+  <h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://vanaj-vanguardia.web.app/">
-  <img  src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg"
        alt="snake" /></a>
-</div> -->
+</div> 
 
 <details>
   <summary>🙋‍♂️ Reach Me</summary>
