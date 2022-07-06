@@ -66,6 +66,11 @@
   <summary>🏆 GitHub Stats</summary>
   <div>
       <br/>
+      <div align="center">
+
+![](https://komarev.com/ghpvc/?username=vn-aj-vngrd&color=yellow)
+
+</div>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" /></a>
@@ -76,7 +81,6 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vn-aj-vngrd&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-     <br>
   </div>    
 </details>
 
