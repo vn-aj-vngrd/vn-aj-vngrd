@@ -38,7 +38,7 @@
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
     <a href="https://nextjs.org/" title="Next.js"><img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" alt="Next.js" width="21px" height="21px"></a>
   <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="redux" width="21px" height="21px"></a>
-   <a href="https://redux.js.org/" title="Xamarin"><img src="https://github.com/get-icon/geticon/raw/master/icons/xamarin.svg" alt="xamarin" width="21px" height="21px"></a>
+   <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" title="Xamarin"><img src="https://github.com/get-icon/geticon/raw/master/icons/xamarin.svg" alt="xamarin" width="21px" height="21px"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
