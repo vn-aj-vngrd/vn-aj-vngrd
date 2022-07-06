@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" />
+  <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" />
   <h1 align="center"> Hello, I'm Van</h1>
   <h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
 </div>
