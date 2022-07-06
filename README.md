@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hello, I'm Van</h1>
+<h2 align="center><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></>
+<h1 align="center"> Hello, I'm Van</h1>
 <h4 align="center">An IT student and aspiring developer from Cebu, Ph</h4>
 </div>
 
