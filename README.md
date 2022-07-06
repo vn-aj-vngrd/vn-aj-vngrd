@@ -47,7 +47,7 @@
   <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
   <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
   <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
-     <a href="https://www.prisma.io/" title="Prisma"><img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/prisma.svg" alt="Prisma" width="21px" height="21px"></a>
+     <a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" alt="Prisma" width="21px" height="21px"></a>
 </p>
   
 ### ⛏️ Other Platform and Tools
