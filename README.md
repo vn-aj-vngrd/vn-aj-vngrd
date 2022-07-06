@@ -6,6 +6,8 @@
 
 ## 
 
+
+
 <details> 
   <summary>🏆 GitHub Stats</summary>
   <div>
@@ -27,17 +29,49 @@
 <details>
   <summary>🧑‍💻 My Activity</summary>
   <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-  </a>
+    <div align="center">
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150159221&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12150159221&redirect=true)
+  </div>
+  
+  <div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+    </a>
+  </div>
+  
   <div align="center">
     <a href="https://vanaj-vanguardia.web.app/">
       <img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg" alt="snake-contributions" />
     </a>
   </div>
+
 </details>
 
 <details>
   <summary>🙋‍♂️ Connect with Me</summary>
+<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="linkedin-vanajvanguardia" height="30"/></a>
+      <a href="https://www.facebook.com/vn.aj.vngrd" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="facebook-vanajvanguardia" height="30"/></a>
+      <a href="https://mailto:vanajvanguardia@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="gmail-vanajvanguardia" height="30"/></a>
+      <a href="https://www.instagram.com/vn.aj.vngrd/?hl=en" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="instagram-vanajvanguardia" height="30"/></a>
+    </p>
+  </samp>
+</div>
+</details>
+
+<details>
+  <summary>🛠️ Tech Stack</summary>
 <div>
   <samp>
     <p align="center">
