@@ -2,14 +2,13 @@
   <!-- <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" /> -->
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=FFFFFF&center=true&vCenter=true&lines=Hello%2C+I'm+AJ+%F0%9F%A4%97;An+aspiring+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;and+IT+student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Feel+free+to+browse+my+repo+%F0%9F%A5%B0)](https://git.io/typing-svg)
-  
+
+  <a href="https://vanaj-vanguardia.web.app/">
+    <img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg" alt="snake-contributions" />
+  </a>
 </div>
 
-<div align="center">
-  <a href="https://vanaj-vanguardia.web.app/">
-  <img  src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg"
-       alt="snake" /></a>
-</div> 
+<br />
 
 <details>
   <summary>🙋‍♂️ Reach Me</summary>
