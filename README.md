@@ -1,5 +1,7 @@
 <div align="center">
-  <!-- <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" /> -->
+   <a href="https://vanaj-vanguardia.web.app/" target="blank"><img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/Van.svg" /></a>
+
+## 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=FFFFFF&center=true&vCenter=true&lines=Welcome%F0%9F%91%8B;I'm+an+IT+student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;and+aspiring+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;You+can+call+me+AJ+%F0%9F%A5%B0)](https://git.io/typing-svg)
 </div>
