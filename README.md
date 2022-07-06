@@ -1,14 +1,10 @@
 <div align="center">
-  <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" />
+  <!-- <img align="center" width="35" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/waving.gif" /> -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=FFFFFF&center=true&vCenter=true&lines=Hello%2C+I'm+AJ+%F0%9F%A4%97;An+aspiring+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;and+IT+student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Feel+free+to+browse+my+repo+%F0%9F%A5%B0)](https://git.io/typing-svg)
-  
-  <a href="https://vanaj-vanguardia.web.app/">
-    <img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg" alt="snake-contributions" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=FFFFFF&center=true&vCenter=true&lines=Welcome%F0%9F%91%8B;I'm+an+IT+student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;and+aspiring+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;You+can+call+me+AJ+%F0%9F%A5%B0)](https://git.io/typing-svg)
 </div>
 
-<br />
+## 
 
 <details> 
   <summary>🏆 GitHub Profile Stats</summary>
@@ -33,7 +29,13 @@
   <summary>🧑‍💻 Activity Graph</summary>
   <br/>
   <h2 align="center">🧑‍💻 Activity Graph</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+  </a>
+  <div align="center">
+    <a href="https://vanaj-vanguardia.web.app/">
+      <img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg" alt="snake-contributions" />
+    </a>
+  </div>
 </details>
 
 <details>
@@ -59,3 +61,5 @@
   </samp>
 </div>
 </details>
+
+## 
