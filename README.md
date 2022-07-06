@@ -10,10 +10,10 @@
 </div> -->
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>🙋‍♂️ Reach Me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">🙋‍♂️ Reach Me:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
@@ -45,7 +45,7 @@
 <details> 
   <summary>🏆 GitHub Profile Stats</summary>
   <div>
-    <h2 align="center">⭐ Github Statistics </h2>
+    <h2 align="center">🏆 GitHub Profile Stats</h2>
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
@@ -64,6 +64,6 @@
 <details>
   <summary>🧑‍💻 Activity Graph</summary>
   <br/>
-  <h2 align="center"> Van's Activity </h2>
+  <h2 align="center">🧑‍💻 Activity Graph</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
