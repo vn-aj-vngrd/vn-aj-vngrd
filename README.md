@@ -37,10 +37,10 @@
 </details>
 
 <details>
-  <summary>🙋‍♂️ Reach Me</summary>
+  <summary>🙋‍♂️ Connect with Me</summary>
 <div>
   <samp>
-    <h2 align="center">🙋‍♂️ Reach Me</h2>
+    <h2 align="center">🙋‍♂️ Connect with Me</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
