@@ -18,16 +18,16 @@
       <br/>
       <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="linkedin-vanajvanguardia" height="30"/></a>
       <a href="https://www.facebook.com/vn.aj.vngrd" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="facebook-vanajvanguardia" height="30"/></a>
       <a href="https://mailto:vanajvanguardia@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="gmail-vanajvanguardia" height="30"/></a>
       <a href="https://www.instagram.com/vn.aj.vngrd/?hl=en" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="instagram-vanajvanguardia" height="30"/></a>
     </p>
   </samp>
 </div>
