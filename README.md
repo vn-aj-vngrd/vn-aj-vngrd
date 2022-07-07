@@ -25,6 +25,8 @@
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C-Sharp"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
   <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
   <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS" width="21px" height="21px"></a>
 </p>
   
 ### 💻 Frameworks and Libraries  
