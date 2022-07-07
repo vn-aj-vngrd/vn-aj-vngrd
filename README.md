@@ -6,8 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=FFFFFF&center=true&vCenter=true&lines=Welcome%F0%9F%91%8B;I'm+an+IT+student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;and+aspiring+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;You+can+call+me+AJ+%F0%9F%A5%B0)](https://git.io/typing-svg)
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 
 
 <details>
@@ -76,9 +74,9 @@
 
 <details> 
   <summary>🏆 GitHub Stats</summary>
-  <div>
+  <div align="center">
       <br/>
-      <div align="center">
+      <div>
 
 ![](https://komarev.com/ghpvc/?username=vn-aj-vngrd&color=yellow)
 
@@ -93,6 +91,11 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vn-aj-vngrd&theme=gruvbox&hide_border=true" />
           </a>
        </p>
+
+                                                                                                                                    
+[![trophy](https://github-profile-trophy.vercel.app/?username=vn-aj-vngrd&theme=onedark&column=4&row=2)]                                                            
+                                                                                                                                    
+                                                                                                                                    
   </div>    
 </details>
 
