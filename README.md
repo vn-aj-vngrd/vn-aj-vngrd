@@ -49,7 +49,8 @@
   <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
   <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
   <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
-     <a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" alt="Prisma" width="21px" height="21px"></a>
+   <a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" alt="Prisma" width="21px" height="21px"></a>
+   <a href=https://vercel.com" title="Vercel"><img src="https://github.com/get-icon/geticon/raw/master/icons/vercel.svg" alt="Vercel" width="21px" height="21px"></a>
 </p>
   
 ### ⛏️ Other Platform and Tools
@@ -60,7 +61,10 @@
   <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
   <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-     <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio.svg" alt="Visual Studio" width="21px" height="21px"></a>
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio.svg" alt="Visual Studio" width="21px" height="21px"></a>
+    <a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a>    
+    <a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-octocat.svg" alt="GitHub" width="21px" height="21px"></a>
+    
 </p>  
 
 </div>
