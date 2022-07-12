@@ -85,10 +85,8 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" />
         </p>
         <p align="center">
-          <a href="https://github.com/vn-aj-vngrd/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vn-aj-vngrd&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vn-aj-vngrd&theme=gruvbox&hide_border=true" />
-          </a>
        </p>
 
                                                                                                                                     
