@@ -82,8 +82,7 @@
 
 </div>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" />
         </p>
         <p align="center">
           <a href="https://github.com/vn-aj-vngrd/">
