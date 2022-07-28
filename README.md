@@ -82,7 +82,7 @@
 
 </div>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" />
         </p>
         <p align="center">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vn-aj-vngrd&show_icons=true&theme=gruvbox&hide_border=true" />
