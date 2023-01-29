@@ -105,7 +105,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150159221&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12150159221&redirect=true)
 
   <div>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
   </a>
   </div>
   
