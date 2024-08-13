@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://vanajvanguardia.me/" target="blank"><img align="center" width="25" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/Van.svg" /></a>
+   <a href="https://vanajvanguardia.nextdevs.tech/" target="blank"><img align="center" width="25" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/Van.svg" /></a>
 
 ## 
   
