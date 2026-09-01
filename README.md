@@ -1,153 +1,104 @@
 <div align="center">
-   <a href="https://vanajvanguardia.nextdevs.tech/" target="blank"><img align="center" width="25" src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/Van.svg" /></a>
 
-## 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=FFFFFF&center=true&vCenter=true&lines=Welcome+%F0%9F%91%8B;I'm+a+full-stack+engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;You+can+call+me+AJ+%F0%9F%A5%B0)](https://git.io/typing-svg)
+# Van AJ Vanguardia
+
+### Full-stack software developer building dependable web, mobile, backend, and AI-enabled products.
+
+Based in Cebu, Philippines · Open to opportunities
+
+[![Portfolio](https://img.shields.io/badge/Explore_the_portfolio-155EEF?style=for-the-badge&logo=vercel&logoColor=white)](https://vanajvanguardia.tech)
+
 </div>
 
-## 
+---
+
+## What I build
+
+I turn product requirements into shipped software—from user flows and interfaces to APIs, databases, tests, and deployment. My primary ecosystem is TypeScript, React, and Next.js, with production experience across mobile applications and ASP.NET Core backends.
+
+I use coding agents for research, implementation, debugging, and review, then verify the result through automated tests, browser checks, accessibility review, and direct code inspection.
+
+```text
+FRAME  →  CHALLENGE  →  BUILD  →  VERIFY  →  SHIP
+scope     assumptions    product    behavior    release
+```
+
+## Selected products
+
+| Product | What it does | Built with | Explore |
+| :-- | :-- | :-- | :-- |
+| **Relay** | Takes a recreational pickleball session from invitation and RSVP through costs, rotations, scoring, and recap. | Next.js · TypeScript · Supabase · PostgreSQL · Drizzle | [Live product](https://relay.vanajvanguardia.tech/) · [Source](https://github.com/vn-aj-vngrd/relay) |
+| **Roleway** | Organizes focused job searches into Workspaces, Opportunities, next actions, interviews, contacts, and reviewable Agent work. | Next.js · TypeScript · Supabase · Turborepo · Zod | [Live product](https://roleway.vercel.app/) · [Source](https://github.com/vn-aj-vngrd/roleway) |
+| **Viya** | Keeps trip itineraries, budgets, documents, bookings, and reviewable AI-assisted updates in one mobile workspace. | React Native · Expo · TypeScript · Convex · Clerk | [Source](https://github.com/vn-aj-vngrd/viya-app) |
+| **ACSFI** | Gives a nonprofit a responsive public website and structured CMS for programs, activity reports, events, and media. | Next.js · TypeScript · Strapi · MySQL · Docker | [Live website](https://www.astro-foundation.com/) · [Source](https://github.com/vn-aj-vngrd/acsfi-app) |
+
+> Detailed product decisions, architecture, and evidence are available in the [portfolio case studies](https://vanajvanguardia.tech/#my-work).
+
+## Engineering approach
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Product development
+
+Clarify the requirement, map the user flow, build the interface and supporting system, then revise it against real behavior.
+
+</td>
+<td width="50%" valign="top">
+
+### Full-stack implementation
+
+Connect typed interfaces to authenticated APIs, domain rules, databases, background work, and external services.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Responsible AI integration
+
+Validate model output, isolate providers, provide deterministic fallbacks, and require user review before generated changes affect stored data.
+
+</td>
+<td width="50%" valign="top">
+
+### Testing and release
+
+Use automated tests, accessibility checks, performance review, documentation, and repeatable deployment steps before release.
+
+</td>
+</tr>
+</table>
+
+## Core toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-121416?style=flat-square&logo=typescript&logoColor=77A6FF)
+![React](https://img.shields.io/badge/React-121416?style=flat-square&logo=react&logoColor=77A6FF)
+![Next.js](https://img.shields.io/badge/Next.js-121416?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-121416?style=flat-square&logo=react&logoColor=77A6FF)
+![Node.js](https://img.shields.io/badge/Node.js-121416?style=flat-square&logo=nodedotjs&logoColor=77A6FF)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-121416?style=flat-square&logo=dotnet&logoColor=77A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121416?style=flat-square&logo=postgresql&logoColor=77A6FF)
+![Docker](https://img.shields.io/badge/Docker-121416?style=flat-square&logo=docker&logoColor=77A6FF)
+![Vercel](https://img.shields.io/badge/Vercel-121416?style=flat-square&logo=vercel&logoColor=white)
 
 <details>
-  <summary>🛠️ Tech Stack</summary>
-<div>
-  
-<samp>
+<summary><strong>More of the stack</strong></summary>
+<br />
+
+- **Backend and architecture:** Bun, NestJS, Express, Hono, Fastify, tRPC, REST APIs, Prisma, Drizzle, Supabase
+- **Data and infrastructure:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Convex, AWS, Vercel, Docker
+- **Quality and delivery:** Vitest, Jest, Playwright, Maestro, Biome, Prettier, Git, GitHub
+- **Agent workflow:** Claude Code, Codex, Cursor, Pi, OpenCode, cmux, HERDR
+
+</details>
+
+## Connect
+
 <div align="center">
-      
-### 🧰 Progamming Languages
 
-<p>
-  <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
-    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C-Sharp"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
-  <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
-  <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS" width="21px" height="21px"></a>
-</p>
-  
-### 💻 Frameworks and Libraries  
- 
-<p>
-    <a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="21px" height="21px">   </a>
-  <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
-  <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
-    <a href="https://nextjs.org/" title="Next.js"><img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" alt="Next.js" width="21px" height="21px"></a>
-  <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="redux" width="21px" height="21px"></a>
-   <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" title="Xamarin"><img src="https://github.com/get-icon/geticon/raw/master/icons/xamarin.svg" alt="xamarin" width="21px" height="21px"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-  <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-  <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
-  <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
-   <a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" alt="Prisma" width="21px" height="21px"></a>
-   <a href=https://vercel.com" title="Vercel"><img src="https://github.com/get-icon/geticon/raw/master/icons/vercel.svg" alt="Vercel" width="21px" height="21px"></a>
-</p>
-  
-### ⛏️ Other Platform and Tools
-
-<p>
-  <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
-  <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
-  <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
-  <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-  <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio.svg" alt="Visual Studio" width="21px" height="21px"></a>
-    <a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a>    
-    <a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-octocat.svg" alt="GitHub" width="21px" height="21px"></a>
-    
-</p>  
+[![Gmail](https://img.shields.io/badge/Gmail-vanajvanguardia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanajvanguardia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Van_AJ_Vanguardia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/)
 
 </div>
-</samp>
-</div>
-</details>
-
-<details> 
-  <summary>🏆 GitHub Stats</summary>
-  <div align="center">
-      <br/>
-      <div>
-
-![](https://komarev.com/ghpvc/?username=vn-aj-vngrd&color=yellow)
-
-</div>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-aj-vngrd&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="vn-aj-vngrd :: Top Langs" />
-        </p>
-        <p align="center">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vn-aj-vngrd&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vn-aj-vngrd&theme=gruvbox&hide_border=true" />
-       </p>
-
-                                                                                                                                    
-[![trophy](https://github-profile-trophy.vercel.app/?username=vn-aj-vngrd&theme=onedark&column=4&row=2)]                                                            
-                                                                                                                                    
-                                                                                                                                    
-  </div>    
-</details>
-
-<details>
-  <summary>🧑‍💻 My Activity</summary>
-  
-  <br/>
-  <div align="center">
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150159221&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12150159221&redirect=true)
-
-  <div>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vn-aj-vngrd's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=vn-aj-vngrd&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-  </a>
-  </div>
-  
-  <div>
-    <a href="https://vanaj-vanguardia.web.app/">
-      <img src="https://github.com/vn-aj-vngrd/vn-aj-vngrd/blob/main/assets/github-user-contribution.svg" alt="snake-contributions" />
-    </a>
-  </div>
-      
-  </div>
-
-</details>
-
-<details>
-  <summary>🙋‍♂️ Connect with Me</summary>
-<div>
-  <samp>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/van-aj-vanguardia-a0654a223/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="linkedin-vanajvanguardia" height="30"/>
-      </a>
-      <a href="https://www.facebook.com/vn.aj.vngrd" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="facebook-vanajvanguardia" height="30"/>
-      </a>
-      <a href="mailto:vanajvanguardia@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="gmail-vanajvanguardia" height="30"/>
-      </a>
-      <a href="https://www.instagram.com/vn.aj.vngrd/?hl=en" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="instagram-vanajvanguardia" height="30"/>
-      </a>
-      <a href="https://twitter.com/vn_aj_vngrd" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/>
-      </a>
-    </p>
-  </samp>
-</div>
-</details>
-
-## 
